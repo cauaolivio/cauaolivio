@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, I´m Cauã Olivio! 
+
+<h3>We are what we dream.</h3>
 
 <!--
 **cauaolivio/cauaolivio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
