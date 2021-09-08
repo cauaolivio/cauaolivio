@@ -5,15 +5,12 @@
 
 <h3>Studying:</h3>
 
-<p align="left">
-<img src="https://miro.medium.com/max/361/1*9bXq5Ti9WulFZwCBnCYSyQ.png" height="auto" width="40">
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
-<img src="https://jbossdivers.files.wordpress.com/2011/09/java.jpg?w=705" height="auto" width="40">
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
-
-</p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cauã-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cauã-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 <!--
 **cauaolivio/cauaolivio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
