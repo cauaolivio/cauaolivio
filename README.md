@@ -3,8 +3,9 @@
 <h3>We are what we dream.</h3>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaolivio&layout=compact&theme=react" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api?username=cauaolivio&show_icons=true&theme=react&include_all_commits=true&count_private=true" height="180em">
+  <a href="https://github.com/cauaolivio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauaolivio&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaolivio&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 
