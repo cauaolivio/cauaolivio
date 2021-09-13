@@ -1,11 +1,15 @@
+<img align="right" src="https://raw.githubusercontent.com/cauaolivio/cauaolivio/main/img/bg01" alt="programmer" width=40% />
+
 <h1 align="center">Hey, I'm Cauã Olivio</h1>
 
 <h3>We are what we dream.</h3>
+
 
 <div>
   <a href="https://github.com/cauaolivio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauaolivio&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </div>
+  
 
 
 <div style="display: inline_block"><br>
