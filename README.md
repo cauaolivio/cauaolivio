@@ -12,6 +12,7 @@
   
 
 <div><br>
+  <img align="center" alt="Cauã-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/c-original.svg">
   <img align="center" alt="Cauã-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cauã-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Cauã-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
