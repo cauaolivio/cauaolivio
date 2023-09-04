@@ -9,6 +9,10 @@
   <a href="https://github.com/cauaolivio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauaolivio&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </div>
+
+<div style="display: inline_block">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Vilela&theme=react&hide_border=false&&layout=compact"/>
+</div>
   
 
 <div><br>
