@@ -25,7 +25,7 @@
 ##
 <div>
   <a href="mailto:caua.olivio@gmail.com"> <img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/cauaolivio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"       target="_blank"></a>
+  <a href="https://www.instagram.com/cauaolivio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cau%C3%A3-olivio-986544222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 </div> 
   
