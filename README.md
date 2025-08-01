@@ -7,21 +7,47 @@
 
 <div>
   <a href="https://github.com/cauaolivio">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaolivio&theme=react&hide_border=false&&layout=compact"/>
 </div>
   
 
-<div><br><br>
-  <img align="center" alt="Cauã-Java" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Cauã-Python" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Cauã-Js" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cauã-C" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Cauã-PHP" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Cauã-MySQL" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Cauã-HTML" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cauã-CSS" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cauã-GIT" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+<hr>
+
+
+### Tecnologias:
+
+<br><p style="font-size: 22px;">Front end:</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,bootstrap&perline=9&theme=dark" />
+  </a>
+</p>
+
+<p style="font-size: 22px;">Back end:</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=clojure,java,c,python,nodejs,php,kafka,spring&perline=12&theme=dark" />
+  </a>
+</p>
+
+<p style="font-size: 22px;">Database:</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,cassandra,mongodb,oracle&perline=10&theme=dark" />
+  </a>
+</p>
+
+<p style="font-size: 22px;">Outras:</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,github,gitlab,docker,linux,postman&perline=12&theme=dark" />
+  </a>
+</p>
+
+<hr>
   
 ##
 <div>
