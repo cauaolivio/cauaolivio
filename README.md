@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/cauaolivio/cauaolivio/main/img/bg01.svg" alt="programmer" width=40% />
+<img align="right" src="https://raw.githubusercontent.com/cauaolivio/cauaolivio/main/img/bg01.svg" alt="programmer" width=28% />
 
 <h1 align="center">Hey, I'm Cauã Olivio!</h1>
 
@@ -11,7 +11,6 @@
   
 
 <hr>
-
 
 ### Tecnologias:
 
