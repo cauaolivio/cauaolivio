@@ -1,8 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/cauaolivio/cauaolivio/main/img/bg01.svg" alt="programmer" width=28% />
-
-<h1 align="center">Hey, I'm Cauã Olivio!</h1>
-
-<h3>We are what we dream.</h3>
+<img align="right" src="https://raw.githubusercontent.com/cauaolivio/cauaolivio/main/img/bg01.svg" alt="programmer" width=17% />
 
 
 <div>
